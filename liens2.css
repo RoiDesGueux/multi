@@ -345,7 +345,7 @@ body{
       */
   #imagePrincipale {
     padding-top: 260px;
-    background: url(background/arriere.png) no-repeat 60% 60%;
+    background: url(file:///C:/Users/user/Desktop/site%20web%20-%20Copie-20230213T184616Z-001/site%20web%20-%20Copie/liens/jeux/jeux%20multi/arriere.png) no-repeat 60% 60%;
     background-size: cover;
     height: 799px;
   }
